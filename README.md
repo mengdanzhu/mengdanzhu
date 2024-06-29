@@ -7,6 +7,8 @@
 
 🔭 I’m currently working on the interpretability of generative models(LLM, diffusion models).
 
+📷 Beyond research, I have a passion for life, enjoying travel and photography.
+
 📫 You can contact me at mengdan.zhu@emory.edu.
 
 
