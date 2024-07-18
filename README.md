@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on the interpretability of generative models (LLM, diffusion models).
 
-📫 You can contact me at mengdan.zhu@emory.edu.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
