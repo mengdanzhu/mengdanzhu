@@ -5,7 +5,7 @@
   
 🌱 Previously, I finished my master's degree at Dartmouth College and my undergraduate at Fudan University.
 
-🔭 I’m currently working on the interpretability of generative models (LLM, diffusion models).
+🔭 I’m currently working on the interpretability of generative models (LLM, VLM, diffusion models).
 
 
 
