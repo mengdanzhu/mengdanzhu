@@ -3,9 +3,9 @@
 
 👩‍💻 I’m a PhD student in Computer Science at Emory University.
   
-🌱 Previously, I finished my master's degree at Dartmouth College and my undergraduate at Fudan University.
+🌱 Previously, I completed my master's at Dartmouth College and my undergraduate studies at Fudan University.
 
-🔭 I’m currently working on the interpretability of generative models (LLM, VLM, diffusion models).
+🔭 I’m currently working on multimodal generation and interpretability of generative models (LLMs, VLMs, diffusion models, etc.).
 
 
 
