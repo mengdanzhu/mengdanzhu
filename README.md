@@ -5,7 +5,7 @@
   
 🌱 Previously, I completed my master's at Dartmouth College and my undergraduate studies at Fudan University.
 
-🔭 I’m currently working on multimodal generation and interpretability of generative models (LLMs, VLMs, diffusion models, etc.).
+🔭 I’m currently working on multimodal generation,reasoning and interpretability of generative models (LLMs, VLMs, diffusion models, etc.).
 
 
 
